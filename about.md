@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-AI Data Scientist, DevOps and Automation.
+Kubernetes | DevOps | AIOps | Opensource Contributor
 
 ### More Information
 
